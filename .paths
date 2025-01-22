@@ -1,0 +1,4 @@
+
+# file to keep path 
+
+export PATH=$PATH:/usr/local/go/bin:/home/naran/.local/lib/:/home/naran/.local/customScripts
